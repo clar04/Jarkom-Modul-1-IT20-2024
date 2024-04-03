@@ -43,4 +43,29 @@ Kemudian klik kanan, pilih follow untuk melihat informasi detail, termasuk nama 
 Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
 ![Wireshark](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/malweo-flag.png)
 
+### soal "ATM or ATP or FTP?"
+
+---
+
+Pada soal ini kita disuruh untuk mencari login yang succesful menggunakan filter ftp:
+
+a. Apa password yang berhasil didapatkan oleh hacker setelah melakukan bruteforce login ftp?
+
+Untuk menyelesaikan soal tersebut, langkah pertama adalah memasukkan filter ftp, kemudian klik kanan dengan menggunakan opsi apply settings. Setelah itu tampilan akan menampilkan list dari semua ftp yang ada.
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/940839b8-3b07-43c9-8408-856ef5a4506d)
+
+Setelah itu cari yang status nya login succesful dan klik kanan lalu follow:
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/53c74494-22da-4218-a066-7b4080c7c81b)
+
+Itu adalah tampilan setelah di follow dan bisa kita lihat, kita mndapatkan password yang berhasil login
+
+masuk ke bagian netcat, masukkan password yang sudah didapatkan yaitu m4y_th3_Kn!fe_ch1p_&_sh4tter
+
+
+
+
+
+
 ## Revisi
