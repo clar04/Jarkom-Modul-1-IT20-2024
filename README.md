@@ -65,6 +65,22 @@ masuk ke bagian netcat, masukkan password yang sudah didapatkan yaitu m4y_th3_Kn
 
 ![atp,atm,ftp](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/6d74ca5b-addb-4326-8f82-67d24cf2e208)
 
+### soal "Trace Him"
+
+---
+
+Pada soal ini mengacu pada soal "ATM or ATP or FTP?" setelah mendapatkan password yang berhasil login, kita langsung saja lihat apa IP Address nya
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/162f3a30-1900-45f6-845f-536a3c52acad)
+
+Pada gambar diatas bisa dilihat bahwa source dari login successful yaitu 10.30.3.4
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/04143793-60f3-44ed-9b0e-1085922b9bca)
+
+Ditemukan lah flag nya
+
+
+
 
 
 
