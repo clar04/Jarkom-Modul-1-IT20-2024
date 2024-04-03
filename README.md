@@ -90,4 +90,17 @@ Ditemukanlah Flag nya
 
 ## Revisi
 
+## Fuzz
+
+Pada soal ini kita diminta untuk mendapatkan username dan password attacker. Pada file capture gunakan filter http.request.method == "POST" dan follow melalui HTTP
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/3d9ded2c-b2d2-45cf-96d8-8574e7bdb91a)
+
+bisa dilihat bahwa password dan username ditemukan dengan memasukkan "302 found" di kolom search
+
+Selanjutnya masuk ke netcat untuk mencari flagnya
+
+![WhatsApp Image 2024-04-04 at 00 37 40_93741c90](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/2f494993-cfbe-468e-98df-a8772ed84998)
+
+
 
