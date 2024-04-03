@@ -6,7 +6,7 @@
 | Clara Valentina | 5027221016 |
 | Muhammad Arsy Athallah| 5027221048 |
 
-### Soal "creds"
+### "creds"
 
 ---
 
@@ -25,7 +25,7 @@ Kemudian klik kanan, pilih follow untuk melihat informasi detail, termasuk usern
 Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
 ![Wireshark](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/creds-flag.png)
 
-### Soal "malwleowleo"
+### "malwleowleo"
 
 ---
 
@@ -43,7 +43,7 @@ Kemudian klik kanan, pilih follow untuk melihat informasi detail, termasuk nama 
 Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
 ![Wireshark](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/malweo-flag.png)
 
-### soal "ATM or ATP or FTP?"
+### "ATM or ATP or FTP?"
 
 ---
 
@@ -65,7 +65,7 @@ masuk ke bagian netcat, masukkan password yang sudah didapatkan yaitu m4y_th3_Kn
 
 ![atp,atm,ftp](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/6d74ca5b-addb-4326-8f82-67d24cf2e208)
 
-### soal "Trace Him"
+### "Trace Him"
 
 ---
 
@@ -89,3 +89,5 @@ Ditemukanlah Flag nya
 
 
 ## Revisi
+
+
