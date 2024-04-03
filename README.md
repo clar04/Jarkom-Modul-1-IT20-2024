@@ -6,7 +6,7 @@
 | Clara Valentina | 5027221016 |
 | Muhammad Arsy Athallah| 5027221048 |
 
-### "creds"
+### Creds
 
 ---
 
@@ -25,7 +25,7 @@ Kemudian klik kanan, pilih follow untuk melihat informasi detail, termasuk usern
 Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
 ![Wireshark](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/creds-flag.png)
 
-### "malwleowleo"
+### Malwleowleo
 
 ---
 
@@ -43,7 +43,7 @@ Kemudian klik kanan, pilih follow untuk melihat informasi detail, termasuk nama 
 Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
 ![Wireshark](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/malweo-flag.png)
 
-### "ATM or ATP or FTP?"
+### ATM or ATP or FTP?
 
 ---
 
@@ -65,7 +65,7 @@ masuk ke bagian netcat, masukkan password yang sudah didapatkan yaitu m4y_th3_Kn
 
 ![atp,atm,ftp](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/6d74ca5b-addb-4326-8f82-67d24cf2e208)
 
-### "Trace Him"
+### Trace Him
 
 ---
 
@@ -90,7 +90,9 @@ Ditemukanlah Flag nya
 
 ## Revisi
 
-## Fuzz
+### Fuzz
+
+---
 
 Pada soal ini kita diminta untuk mendapatkan username dan password attacker. Pada file capture gunakan filter http.request.method == "POST" dan follow melalui HTTP
 
@@ -103,6 +105,27 @@ Selanjutnya masuk ke netcat untuk mencari flagnya
 ![WhatsApp Image 2024-04-04 at 00 37 40_93741c90](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/2f494993-cfbe-468e-98df-a8772ed84998)
 
 Flag didapatkan
+
+### Secret
+
+---
+
+Pada soal tersebut, diminta untuk menemukan pesan yang dikirim oleh attacker pada file selain malware. Untuk menemukan file yang dikirim oleh attacker, maka perlu untuk membuka file evidance.pcap terlebih dahulu. Kemudian klik file di bagian kiri atas, lalu pilih export object kemudian pilih ftp-data.
+
+![Secret](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/secret-extract.png)
+
+Kemudian akan ditampilkan 2 file yang telah dikirim oleh attacker, yaitu file malware dan file lain yaitu mirza.jpg. Karena yang diminta adalah pesan selain malwere, maka perlu membuka file mirza.jpg terlebih dahulu dengan menyimpannya.
+
+![Secret](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/secret-save.png)
+
+Kemudian, file mirza.jpg dapat dibuka dan ditemukan pesan yang dikirim oleh attacker, seperti berikut :
+
+![Secret](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/secret-pesen.png)
+
+Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
+
+![Secret](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/secret-flag.png)
+
 
 
 
