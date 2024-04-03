@@ -102,5 +102,7 @@ Selanjutnya masuk ke netcat untuk mencari flagnya
 
 ![WhatsApp Image 2024-04-04 at 00 37 40_93741c90](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/2f494993-cfbe-468e-98df-a8772ed84998)
 
+Flag didapatkan
+
 
 
