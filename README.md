@@ -75,9 +75,10 @@ Pada soal ini mengacu pada soal "ATM or ATP or FTP?" setelah mendapatkan passwor
 
 Pada gambar diatas bisa dilihat bahwa source dari login successful yaitu 10.30.3.4
 
-![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/04143793-60f3-44ed-9b0e-1085922b9bca)
+![trace him](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/55c1a4e6-3bba-4266-8419-9fedd1ad629e)
 
-Ditemukan lah flag nya
+Ditemukanlah Flag nya
+
 
 
 
