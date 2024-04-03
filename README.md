@@ -63,6 +63,9 @@ Itu adalah tampilan setelah di follow dan bisa kita lihat, kita mndapatkan passw
 
 masuk ke bagian netcat, masukkan password yang sudah didapatkan yaitu m4y_th3_Kn!fe_ch1p_&_sh4tter
 
+![atp,atm,ftp](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/6d74ca5b-addb-4326-8f82-67d24cf2e208)
+
+
 
 
 
