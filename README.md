@@ -127,5 +127,30 @@ Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yan
 ![Secret](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/secret-flag.png)
 
 
+### Evidence
+
+---
+
+Pada soal tersebut, berisikan pertanyaan-pertanyaan berikut :
+1. Apa domain milik korban?
+2. Apa web servre yang digunakan oleh korban?
+3. Apa endpoint yang digunakan untuk login sebagai user biasa?
+4. Apa email dan password yang berhasil digunakan untuk login sebagai user biasa?
+
+Untuk menjawab pertanyaan-pertanyaan tersebut, maka langkah penyelesaian yang dilakukan adalah menggunakan filter `tcp.stream eq 1240` kemudian memilih paket dengan info post.
+
+![Evidence](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/evidance-filter.png)
+
+Lalu klik kanan, pilih follow dengan menggunakan HTTP Stream, sehingga diperoleh hasil sebagai berikut :
+
+![Evidence](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/evidance-tcpstream.png)
+
+Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yang diminta.
+
+![Evidence](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/evidance-flag.png)
+
+
+
+
 
 
