@@ -137,7 +137,7 @@ Pada soal tersebut, berisikan pertanyaan-pertanyaan berikut :
 3. Apa endpoint yang digunakan untuk login sebagai user biasa?
 4. Apa email dan password yang berhasil digunakan untuk login sebagai user biasa?
 
-Untuk menjawab pertanyaan-pertanyaan tersebut, maka langkah penyelesaian yang dilakukan adalah menggunakan filter `tcp.stream eq 1240` kemudian memilih paket dengan info post.
+Untuk menjawab pertanyaan-pertanyaan tersebut, maka langkah penyelesaian yang dilakukan adalah menggunakan filter `tcp` kemudian memilih paket dengan info post.
 
 ![Evidence](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/blob/main/SS/evidance-filter.png)
 
