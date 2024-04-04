@@ -155,7 +155,20 @@ Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yan
 
 ---
 
-Case ini berhubungan dengan soal creds dan malwleowleo
+Case ini berhubungan dengan soal creds dan malwleowleo, jadi pada case ini gunakan filter tcp.stream eq 7
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/061c3c6b-55d0-4faa-9868-0fa62e762c8a)
+
+setelah ditemukan kita harus mendecrypt message //SGVsbG8gbXkgbmFtZSBpcyBQYXVsIEF0cmVpZGVzCg== menggunakan base64
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/0c7074f5-7c95-4486-976d-b22cc55c7b13)
+
+setelah di decode menggunakan base64 mendapatkan jawaban berupa "Hello my name is Paul Atreides"
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/3ff480ea-d940-44cc-a7da-bb12be134e2f)
+
+
+
 
 
 
