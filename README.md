@@ -151,6 +151,13 @@ Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yan
 
 
 
+### whoami
+
+---
+
+Case ini berhubungan dengan soal creds dan malwleowleo
+
+
 
 
 
