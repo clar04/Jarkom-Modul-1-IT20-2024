@@ -168,6 +168,25 @@ setelah di decode menggunakan base64 mendapatkan jawaban berupa "Hello my name i
 ![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/3ff480ea-d940-44cc-a7da-bb12be134e2f)
 
 
+### How Many Packets?
+
+---
+
+Pada soal ini kita diminta untuk mencari Berapa total attempt login(bruteforce) yang dilakukan oleh hacker? jadi pertama masuk ke file ftp lalu gunakan filter frame.len==94 && ip.src==10.15.40.20
+
+![Screenshot 2024-04-04 105633](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/fa34f4a5-b498-4596-96c6-e5f3b2a8cdd6)
+
+bisa dilihat di kanan bawah terdapat total attempt login yang telah dilakukan yang berjumlah 934 attempt login 
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/e6ef8c0f-3c16-4a21-8622-00dee581b084)
+
+![image](https://github.com/clar04/Jarkom-Modul-1-IT20-2024/assets/128389289/248eec32-bef9-41c5-93b4-fc62f04eacb8)
+
+
+
+
+
+
 
 
 
