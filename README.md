@@ -133,7 +133,7 @@ Lalu memasukkan informasi yang ditemukan pada netcat, untuk mendapatkan flag yan
 
 Pada soal tersebut, berisikan pertanyaan-pertanyaan berikut :
 1. Apa domain milik korban?
-2. Apa web servre yang digunakan oleh korban?
+2. Apa web server yang digunakan oleh korban?
 3. Apa endpoint yang digunakan untuk login sebagai user biasa?
 4. Apa email dan password yang berhasil digunakan untuk login sebagai user biasa?
 
